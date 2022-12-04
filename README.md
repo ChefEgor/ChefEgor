@@ -4,3 +4,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in St. Petersburg
 * 🧠  I'm learning javascript
 * 🤝  I'm open to collaborating on all projects
+
+![](https://www.codewars.com/users/ChefEgor/badges/large)
